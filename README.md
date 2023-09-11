@@ -27,10 +27,6 @@ CREATE TABLE reader (
                         phone_number VARCHAR(20)
 );
 
-
-https://github.com/LenaSakhankova/MyAppSpringBoot/assets/100844312/658e862f-0c08-44a3-a7d7-3322d5f888f9
-
-
 -- Создание таблицы "book"
 CREATE TABLE book (
                       id INT PRIMARY KEY AUTO_INCREMENT,
